@@ -1,6 +1,6 @@
 use App\Models\Task;
 
-class TaskController extends Controller
+class TaskController2 extends Controller
 {
     public function index(Request $request)
     {
